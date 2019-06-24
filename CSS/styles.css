@@ -1,0 +1,568 @@
+@media screen and (max-width: 1800px) and (min-width: 990px){
+
+body{
+	background-image:url(../IMG/reels-3811497_1920.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+nav  {
+	background-color: black;
+	 color: white;
+	position: relative;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: auto;
+	z-index: 99;
+}
+
+nav a > img{
+	height: 63px;
+	margin-left: 110px;
+	vertical-align:center;
+}
+
+nav ul{
+	display: inline-block;
+	position: absolute;
+	margin-left: 110px;
+	margin-top: 10px;
+}
+
+
+nav ul > li {
+	list-style: none;
+	display: inline;
+	background-color: ;
+	padding: 15px 50px;
+	margin-right: -7px;
+	font-size: 30px;
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+}
+
+main{
+	background-color:rgba(0,0,0, 0.6);
+	
+	top: 70px;
+	display: inline-block;
+	padding-bottom: 90px;
+	width: 100%
+
+}
+
+footer{
+	width: 100%;
+	height: 55px;
+	position: relative;
+	bottom: 0px;
+	left: 0px;
+	background-color: black;
+	padding-top: 12px;
+	float: right;
+}
+footer > span{
+	float: right;
+	color: white;
+	position: relative;
+	top: 25%;
+	font-size: 12px;
+}
+
+
+#nombre{
+	text-align: center;
+	color: #33a39e;
+	font-size: 40;
+	font-family: sans-serif;
+	font-style: initial;
+}
+
+.social{
+	display: inline-block;
+	position: absolute;
+	top: 15%;
+	left: 5%;
+	color: white;
+	font-size: 15px;
+}
+
+.social a > img{
+	height: 45px;
+	vertical-align: middle;
+	font-style: initial;
+}
+
+#somos{
+	color: rgba(222,80,33);
+	text-align: center;
+	font-family: sans-serif;
+	letter-spacing: 3px;
+	font-weight:  bold;
+}
+
+#parrafo{
+
+	color:	#c7f2cc ;
+	font-family: sans-serif;
+	letter-spacing: 3px;
+	font-weight: bold;
+
+}
+
+
+.lista{
+
+	color:	#c7f2cc ;
+	font-family: sans-serif;
+	letter-spacing: 3px;
+	font-weight: bold;
+
+}
+
+center > h4,h5{
+	color: white;
+}
+
+.barra{
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+
+.listado{
+	background-color: rgba(255,255,255,0.8);
+	width: 20%;
+	height: 300px;
+	border-radius: 0 0 0 20px;
+	display: inline-block;
+	margin: 0px 70px;
+}
+
+.card{
+	box-shadow: 5px 7px 8px 0 rgba(0,0,0,0.3);
+	width: 100%;
+	border-radius: 0px 20px;
+	background-color: white;
+	color: #DE1F86;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+
+.contenedor_card {
+	padding: 2px 16px;
+}
+
+div>img{
+	height: 150px;
+	width: 250px;
+	max-height: 150px;
+	max-width: 250px;
+	text-align: left;
+}
+
+h2>img{
+	margin-left: 300px;
+	margin-right: 300px;
+	width: 900px;
+	height:300px;
+}
+
+}
+
+@media screen and (max-width: 990px) and (min-width: 600px){
+
+	body{
+	background-image:url(../IMG/reels-3811497_1920.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+nav{
+	background-color: black;
+	 color: white;
+	position: relative;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: auto;
+	z-index: 99;
+}
+
+nav a > img{
+	height: 63px;
+	margin-left: 110px;
+	vertical-align:center;
+}
+
+nav ul{
+	display: inline-block;
+	position: absolute;
+	margin-left: 110px;
+	margin-top: 10px;
+}
+
+
+nav ul > li {
+	list-style: none;
+	display: inline;
+	background-color: ;
+	padding: 15px 50px;
+	margin-right: -7px;
+	font-size: 20px;
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+}
+
+main{
+	background-color:rgba(0,0,0, 0.6);
+	
+	top: 70px;
+	display: inline-block;
+	padding-bottom: 90px;
+	width: 100%
+
+}
+
+footer{
+	width: 100%;
+	height: 55px;
+	position: relative;
+	bottom: 0px;
+	left: 0px;
+	background-color: black;
+	padding-top: 12px;
+	float: right;
+}
+footer > span{
+	float: right;
+	color: white;
+	position: relative;
+	top: 25%;
+	font-size: 12px;
+}
+
+
+#nombre{
+	text-align: center;
+	color: #33a39e;
+	font-size: 40;
+	font-family: sans-serif;
+	font-style: initial;
+}
+
+.social{
+	display: inline-block;
+	position: absolute;
+	top: 15%;
+	left: 5%;
+	color: white;
+	font-size: 15px;
+}
+
+.social a > img{
+	height: 45px;
+	vertical-align: middle;
+	font-style: initial;
+}
+
+#somos{
+	color: rgba(222,80,33);
+	text-align: center;
+	font-family: sans-serif;
+	letter-spacing: 3px;
+	font-weight:  bold;
+}
+
+#parrafo{
+
+	color:	#c7f2cc ;
+	font-family: sans-serif;
+	letter-spacing: 3px;
+	font-weight: bold;
+
+}
+
+
+.lista{
+
+	color:	#c7f2cc ;
+	font-family: sans-serif;
+	letter-spacing: 3px;
+	font-weight: bold;
+
+}
+
+center > h4,h5{
+	color: white;
+}
+
+.barra{
+	padding-top: 70px;
+	padding-bottom: 70px;
+	font-size: 20px;
+}
+
+
+.listado{
+	background-color: rgba(255,255,255,0.8);
+	width: 20%;
+	height: 300px;
+	border-radius: 0 0 0 20px;
+	display: inline-block;
+	margin: 0px 70px;
+}
+
+.card{
+	box-shadow: 5px 7px 8px 0 rgba(0,0,0,0.3);
+	width: 100%;
+	border-radius: 0px 20px;
+	background-color: white;
+	color: #DE1F86;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+
+.contenedor_card {
+	padding: 2px 16px;
+}
+
+div>img{
+	height: 80%;
+	width: 80%;
+
+
+}
+
+
+h2>img{
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	height:300px;
+}
+
+}
+
+@media screen and (max-width: 600px) and (min-width: 0px){
+
+
+
+
+body{
+	background-image:url(../IMG/reels-3811497_1920.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+nav{
+	background-color: black;
+	 color: white;
+	position: relative;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: auto;
+	z-index: 99;
+}
+
+nav a > img{
+	height: 63px;
+	margin-left: 110px;
+	vertical-align:center;
+}
+
+nav ul{
+	display: inline-block;
+	position: absolute;
+	margin-left: 110px;
+	margin-top: 10px;
+}
+
+
+nav ul > li {
+	list-style: none;
+	display: inline;
+	background-color: ;
+	padding: 15px 50px;
+	margin-right: -7px;
+	font-size: 20px;
+
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+}
+
+main{
+	background-color:rgba(0,0,0, 0.6);
+	
+	top: 70px;
+	display: inline-block;
+	padding-bottom: 90px;
+	width: 100%
+
+}
+
+footer{
+	width: 100%;
+	height: 55px;
+	position: relative;
+	bottom: 0px;
+	left: 0px;
+	background-color: black;
+	padding-top: 12px;
+	float: right;
+}
+footer > span{
+	float: right;
+	color: white;
+	position: relative;
+	top: 25%;
+	font-size: 12px;
+}
+
+
+#nombre{
+	text-align: center;
+	color: #33a39e;
+	font-size: 40;
+	font-family: sans-serif;
+	font-style: initial;
+}
+
+.social{
+	display: inline-block;
+	position: absolute;
+	top: 15%;
+	left: 5%;
+	color: white;
+	font-size: 15px;
+}
+
+.social a > img{
+	height: 45px;
+	vertical-align: middle;
+	font-style: initial;
+}
+
+#somos{
+	color: rgba(222,80,33);
+	text-align: center;
+	font-family: sans-serif;
+	letter-spacing: 3px;
+	font-weight:  bold;
+}
+
+#parrafo{
+
+	color:	#c7f2cc ;
+	font-family: sans-serif;
+	letter-spacing: 3px;
+	font-weight: bold;
+
+}
+
+
+.lista{
+
+	color:	#c7f2cc ;
+	font-family: sans-serif;
+	letter-spacing: 3px;
+	font-weight: bold;
+
+}
+
+center > h4,h5{
+	color: white;
+}
+
+.barra{
+	padding-top: 60px;
+	padding-bottom: 60px;
+	font-size: 18px;
+}
+
+.listado{
+	background-color: rgba(255,255,255,0.8);
+	width: 20%;
+	height: 500px;
+	border-radius: 0 0 0 0x;
+	display: inline-block;
+	margin: 0px 70px;
+}
+
+.card{
+	box-shadow: 5px 7px 8px 0 rgba(0,0,0,0.3);
+	width: 100%;
+	border-radius: 0px 20px;
+	background-color: white;
+	color: #DE1F86;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+
+.contenedor_card {
+	padding: 2px 16px;
+}
+
+.listado{
+	background-color: rgba(255,255,255,0.8);
+	width: auto;
+	height: auto;
+	border-radius: 0 0 0 20px;
+	display: inline-block;
+	margin: 0px 70px;
+}
+
+.card{
+	box-shadow: 5px 7px 8px 0 rgba(0,0,0,0.3);
+	width: auto;
+	border-radius: 0px 20px;
+	background-color: white;
+	color: #DE1F86;
+	display: inline-block;
+	margin-bottom: 15px;
+}
+
+.contenedor_card {
+	padding: 2px 16px;
+}
+
+div>img{
+	max-height: 70%;
+	max-width: 70%;
+	display: block;
+}
+
+div>h4{
+	text-align: center;
+}
+
+
+h2>img{
+	margin-left: auto;
+	margin-right: auto;
+	width: 450px;
+	height:200px;
+}
+
+}
+
+
